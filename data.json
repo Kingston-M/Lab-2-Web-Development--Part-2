@@ -1,0 +1,14 @@
+{
+    "chart_title": "My Weekly Time Log (hours per day)",
+    "unit": "hours",
+    "activities": ["Sleep", "Study", "Gym", "Social"],
+    "data_points": [
+        {"label": "Mon", "Sleep": 7.0, "Study": 6.0, "Gym": 1.0, "Social": 2.0},
+        {"label": "Tue", "Sleep": 6.5, "Study": 7.0, "Gym": 0.0, "Social": 1.5},
+        {"label": "Wed", "Sleep": 7.5, "Study": 5.5, "Gym": 1.5, "Social": 2.0},
+        {"label": "Thu", "Sleep": 6.0, "Study": 8.0, "Gym": 0.0, "Social": 1.0},
+        {"label": "Fri", "Sleep": 7.0, "Study": 4.0, "Gym": 1.0, "Social": 4.0},
+        {"label": "Sat", "Sleep": 9.0, "Study": 3.0, "Gym": 2.0, "Social": 6.0},
+        {"label": "Sun", "Sleep": 8.5, "Study": 5.0, "Gym": 1.5, "Social": 3.5}
+    ]
+}
